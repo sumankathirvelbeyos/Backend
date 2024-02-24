@@ -1,0 +1,1 @@
+mongodb+srv://suman:suman@cluster0.xyabca1.mongodb.net/?retryWrites=true&w=majority
